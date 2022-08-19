@@ -1,9 +1,9 @@
-- Veri Yapıları ve Algoritmalar
+- Data Structures and Algorithms
 
-  * Proje1
+  * Project1
 
-  * Proje2
+  * Project2
 
-  * Proje3
+  * Project3
 
 
